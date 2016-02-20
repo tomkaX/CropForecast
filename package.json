@@ -1,9 +1,9 @@
 {
-  "name": "cf",
+  "name": "crop",
   "description": "CropForecast Infomation System",
-  "version": "0.1.0-dev",
+  "version": "1.0-dev",
   "private": false,
-  "author": "Tomka Koliada",
+  "author": "Tomka",
   "license": "MIT",
   "repository": {
     "type": "git",

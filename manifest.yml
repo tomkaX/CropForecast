@@ -1,11 +1,11 @@
 ---
-declared-services:
-  mean-mongo:
-    label: mongolab
-    plan: sandbox
+declared-services: 
+  mean-mongo: 
+    label: mongolab 
+    plan: sandbox 
 applications:
-- name: cf
-  host: cf-${random-word}
+- name: kleo
+  host: kleo-${random-word}
   memory: 128M
   services:
   - mean-mongo

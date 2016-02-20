@@ -1,7 +1,7 @@
 {
-  "name": "cf",
+  "name": "kleo",
   "version": "0.1.0-dev",
-  "description": "CropForecast Infomation System",
+  "description": "Micro CMS for University Infomation System",
   "dependencies": {
     "bootstrap": "~3",
     "angular": "~1.3",
